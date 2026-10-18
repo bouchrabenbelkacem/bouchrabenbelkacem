@@ -4,7 +4,7 @@
 
 I'm a computer science student passionate about software engineering, web development, and artificial intelligence. I enjoy building practical projects and exploring technologies that solve real-world problems.
 
-## 🚀 About Me
+##  About Me
 
 -  Computer Science student specializing in Software Engineering
 -  Interested in Full-Stack Development and software engineering
